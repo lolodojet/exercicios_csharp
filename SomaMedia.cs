@@ -1,4 +1,4 @@
-using System.Linq;
+/*using System.Linq;
 using System.Collections.Generic;
 using System.Globalization;
 
@@ -51,5 +51,5 @@ class SomaMedia{
         double soma = CalcularSoma(lista);
         return soma / lista.Count;
     }
-}
+} */ 
 
