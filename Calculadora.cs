@@ -3,7 +3,7 @@
 class Calculadora{
     static void Main(){
 
-        while (true){
+        while(true){
             Console.WriteLine("---- CALCULADORA ----");
             Console.WriteLine("1 - Somar");
             Console.WriteLine("2 - Subtrair");
@@ -12,6 +12,7 @@ class Calculadora{
             Console.WriteLine("5 - Resto da Divisão");
             Console.WriteLine("6 - Potência");
             Console.WriteLine("0 - Sair");
+            
 
             int escolha = int.Parse(Console.ReadLine());
 
@@ -59,4 +60,4 @@ class Calculadora{
         }
 
     }
-}
+} 
