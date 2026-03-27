@@ -1,0 +1,15 @@
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\exercicios_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\exercicios_csharp.AssemblyInfoInputs.cache
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\exercicios_csharp.AssemblyInfo.cs
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\exercicios_csharp.csproj.CoreCompileInputs.cache
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\exercicios_csharp.sourcelink.json
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\bin\Debug\net8.0\exercicios_csharp.exe
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\bin\Debug\net8.0\exercicios_csharp.deps.json
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\bin\Debug\net8.0\exercicios_csharp.runtimeconfig.json
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\bin\Debug\net8.0\exercicios_csharp.dll
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\bin\Debug\net8.0\exercicios_csharp.pdb
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\exercicios_csharp.dll
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\refint\exercicios_csharp.dll
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\exercicios_csharp.pdb
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\exercicios_csharp.genruntimeconfig.cache
+C:\repositório\CSharp\ListaExercicios\exercicios_csharp\obj\Debug\net8.0\ref\exercicios_csharp.dll
